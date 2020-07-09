@@ -1,0 +1,7 @@
+#vscode
+.vscode/
+others/
+
+# Log file
+*.log
+
